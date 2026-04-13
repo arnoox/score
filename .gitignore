@@ -12,7 +12,7 @@ user.bazelrc
 # docs build artifacts
 /_build*
 docs/ubproject.toml
-docs/needs_types_generated.toml
+docs/*_generated.toml
 docs/schemas.json
 
 # Vale - editorial style guide
