@@ -76,7 +76,7 @@ bazel_dep(name = "score_tooling", version = "1.2.0")
 bazel_dep(name = "score_docs_as_code")
 git_override(
     module_name = "score_docs_as_code",
-    commit = "8fce7fd1021db1d7b2997c36947dd5d2b99e986a",
+    commit = "8e8c30a8dcff65a222cf794c9b1a3a06cdee890f",
     remote = "https://github.com/arnoox/score-docs-as-code.git",
 )
 
